@@ -6,7 +6,7 @@ Other things will be mentioned below.
 **!! You will need to obtain a Windows Assessment and Deployment Kit that's version is as close to 18948 as possible. (19041 ADK doesn't work for this build) !!**
 
 Requirements:
-- The [fixed package set](https://archive.org/details/andromeda-os-18968-buildable)
+- The [fixed package set]([https://archive.org/details/andromeda-os-18968-buildable](https://github.com/Empyreal96/AndromedaOS_18948_arm/releases/tag/v1))
 - Windows ADK.
 - Visual Studio 2019/2022 to compile the older build of WPInternals that has code for unlocking VHD files. (This will be explained later, this version only works for VHD/Images mounted as a disk)
 - A good amount of free space.
